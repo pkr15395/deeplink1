@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { 
 		"namespace": "android_app", 
-		"package_name": "com.xamarin.deeplinking",
+		"package_name": "com.xamarin.deeplinking.pkr",
         "sha256_cert_fingerprints": ["123456789"]
 		}
 }]
